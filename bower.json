@@ -1,0 +1,21 @@
+{
+  "name": "aa",
+  "version": "1.0.0",
+  "authors": [
+    "shio <eykhl849@yahoo.com.tw>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
